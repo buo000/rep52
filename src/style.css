@@ -6,14 +6,10 @@ body {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    align-items: center;
 }
 
 #container div {
     display: flex;
     gap: 10px;
-}
-
-#test {
-    flex-direction: column;
-    align-items: center;
 }
